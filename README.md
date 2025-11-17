@@ -6,7 +6,7 @@ Murilo Canestri – RM564053
 
 ## Video explicação:
 
-
+https://youtu.be/_ilVbilf_vA
 
 # Robô Monitor de Manutenção Preditiva
 
